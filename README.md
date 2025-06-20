@@ -76,7 +76,7 @@ Docker (optional): For containerized deployment.
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/live-tracking.git
+git clone https://github.com/moses000/live-tracking-rust.git
 cd live-tracking
 
 
